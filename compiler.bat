@@ -1,6 +1,6 @@
 @echo off
 :: Variables
-set filename="guess"
+set filename="genius"
 
 :: Does the Compiler thing
 pyinstaller index.py --onefile --name %filename%.exe
